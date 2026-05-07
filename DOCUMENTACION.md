@@ -24,6 +24,7 @@ Se implementó un flujo de trabajo que se activa con cada "push". [cite_start]El
 <img width="1600" height="611" alt="WhatsApp Image 2026-05-07 at 18 32 43" src="https://github.com/user-attachments/assets/fe037242-038f-4b22-8ad1-92523b178444" />
 
 
-1. **Comandos ejecutados:** [Insertar captura]
-2. **Pull Request y Fusión:** [Insertar captura]
-3. **Ejecución de GitHub Actions:** [Insertar captura]
+1. **Comandos ejecutados:** <img width="1228" height="611" alt="comandos ejecutados" src="https://github.com/user-attachments/assets/140fcd16-798f-4194-af60-bd16b186088b" />
+2. **Pull Request y Fusión:** <img width="1600" height="707" alt="Pull Request y Fusión" src="https://github.com/user-attachments/assets/02de1580-a26a-4e7e-9434-3b5eb558b5b0" />
+3. **Ejecución de GitHub Actions:**<img width="1600" height="627" alt="Ejecución de GitHub Actions" src="https://github.com/user-attachments/assets/4ec656c0-d0ba-475c-8e74-e1fb08bc2de9" />
+
